@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sibly-dev",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "88d56338-d5a8-4747-ad65-e60abadb5c0e",
+			"database_name": "sibly-dev-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
